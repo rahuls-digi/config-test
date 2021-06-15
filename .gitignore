@@ -21,3 +21,29 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+config-ui/.project
+config-ui/.classpath
+config-ui/.settings/.*
+config-ui/.settings/org.eclipse.core.resources.prefs
+config-ui/.settings/org.eclipse.m2e.core.prefs
+config-ui/.settings/org.eclipse.jdt.core.prefs
+config-ui/.settings/org.eclipse.wst.common.project.facet.core.xml
+config-ui/.settings/org.eclipse.wst.common.component
+config-ui/.settings/org.eclipse.wst.jsdt.ui.superType.container
+config-ui/.settings/org.eclipse.wst.validation.prefs
+config-ui/.settings/org.eclipse.wst.jsdt.ui.superType.name
+config-ui/HELP.md
+config-ui/target/classes/application.properties
+config-ui/target/liverpool-configuration-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties
+config-ui/src/test/java/com/liverpool/configuration/mango/api/LiverpoolConfigurationApplicationTests.java
+config-ui/target/liverpool-configuration-0.0.1-SNAPSHOT.war.original
+config-ui/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF
+config-ui/target/m2e-wtp/web-resources/META-INF/maven/com.example/liverpool-configuration/pom.properties
+config-ui/target/m2e-wtp/web-resources/META-INF/maven/com.example/liverpool-configuration/pom.xml
+config-ui/target/maven-archiver/pom.properties
+config-ui/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+config-ui/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+config-ui/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+config-ui/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+config-ui/target/surefire-reports/com.liverpool.configuration.mango.api.LiverpoolConfigurationApplicationTests.txt
+config-ui/target/surefire-reports/TEST-com.liverpool.configuration.mango.api.LiverpoolConfigurationApplicationTests.xml
